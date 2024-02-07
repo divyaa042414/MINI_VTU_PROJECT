@@ -8,7 +8,7 @@ const HomeScreen = () => {
        <div>
         <marquee>
             VTU Results 2024 out - Check Exam Results Here!!!
-            <a href="#">Click Here...</a>Best of Luck
+            <a href="#"> Click Here... </a>Best of Luck
         </marquee>
        </div>
        <div>

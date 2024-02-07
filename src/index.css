@@ -1,5 +1,5 @@
 .NavBar-style{
-    background-color: rgb(186, 179, 170);
+    background-color: rgb(244, 215, 178);
 }
 
 .logo-img-style{
@@ -17,7 +17,7 @@ main{
     min-height: 85vh;
 }
 footer{
-    background-color: rgb(186, 179, 170);
+    background-color: rgb(244, 215, 178);
     padding: 8px;
 }
 marquee{
