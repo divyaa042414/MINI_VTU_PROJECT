@@ -19,8 +19,13 @@ main{
 footer{
     background-color: rgb(244, 215, 178);
     padding: 8px;
+    margin-top: 0.5rem;
 }
 marquee{
     margin-top: 0.4rem;
     font-size: 0.95rem;
+}
+.p-style{
+    text-align: justify;
+
 }
