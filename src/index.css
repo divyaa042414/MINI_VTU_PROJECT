@@ -16,6 +16,9 @@
 main{
     min-height: 85vh;
 }
+header{
+    margin-bottom: 0.5rem;
+}
 footer{
     background-color: rgb(244, 215, 178);
     padding: 8px;
@@ -29,3 +32,71 @@ marquee{
     text-align: justify;
 
 }
+
+.v-heading{
+    margin-top: 1rem;
+    margin-left: 15rem;
+    color: orange;
+    font-size:x-large;
+}
+
+.vision-img{
+    margin-top: 1rem;
+}
+.vision-text{
+    margin-top: 1rem;
+    margin-left: 39rem;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.m-heading{
+    margin-top: 1rem;
+    margin-left: 15rem;
+    color: orange;
+    font-size:x-large;
+}
+.mission-img{
+    margin-top: 1rem;
+}
+.mission-text{
+    margin-top: 1rem;
+    margin-left: 39rem;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.mm-heading{
+    margin-top: 1rem;
+    margin-left: 15rem;
+    color: orange;
+    font-size:x-large;
+} 
+.mandate-text{
+    margin-top: 1rem;
+    margin-left: 39rem;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.mandate-img{
+    margin-top: 1rem;
+    
+}
+
+
+
+/* .section-1{
+    border: 1px solid black;
+   margin-bottom: 0.3rem;
+}
+.section-2{
+    border: 1px solid black;
+    padding :5px 99px 213px 0px;
+    margin-bottom: 0.3rem;
+}
+.section-3{
+    border: 1px solid black;
+   
+    margin-bottom: 0.3rem;
+} */
