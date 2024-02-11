@@ -20,8 +20,8 @@ const ResultLoginPage = () => {
             </Col>
             <Col style={{ marginLeft:"-20rem"}}>
                 <Form>
-                    <label>Enter Your Register Number:</label><br/>
-                    <input type="text" style={{width:"60%"}} placeholder="Enter Your Register Number...        "></input><br/>
+                    <Form.Label>Enter Your Register Number:</Form.Label><br/>
+                    <Form.Control type="text" style={{width:"60%"}} placeholder="Enter Your Register Number..."></Form.Control>
                     <Button type="submit" style={{marginTop:"1rem"}}>Submit</Button>
                 </Form>
             </Col>

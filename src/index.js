@@ -8,6 +8,7 @@ import {createBrowserRouter,createRoutesFromElements,Route,RouterProvider} from 
 import HomeScreen from './Screens/HomeScreen';
 import AboutUs from './Screens/AboutUs';
 import ResultLoginPage from './Screens/ResultLoginPage';
+import ResultPage from './Screens/ResultPage';
 
 
 
@@ -16,8 +17,11 @@ const router = createBrowserRouter(
     <Route path='/' element={<App/>}>
       <Route index = {HomeScreen} path='/' element={<HomeScreen/>} />
       <Route  path = '/about' element={<AboutUs/>} />
-      <Route  path = '/results' element={<ResultLoginPage/>} />
+      <Route  path = '/results/loginPage' element={<ResultLoginPage/>} />
+      <Route path='/resultPage' element={<ResultPage/>} />
       
+      
+
 
 
     </Route>
