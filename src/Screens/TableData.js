@@ -8,7 +8,7 @@ const TableData =() =>{
                 <thead>
                     <tr>
                         <th style={{textAlign:"center"}}>Sl No </th>
-                        <th colspan={2}>Subject
+                        <th colspan={2}  >Subject
                              <th style={{padding:"0px 7rem"}}>code</th>
                              <th style={{padding:" 0px 7rem"}}>subject</th>
                         </th>

@@ -84,19 +84,8 @@ marquee{
     
 }
 
+tr,td{
+    text-align: center;
+}
 
 
-/* .section-1{
-    border: 1px solid black;
-   margin-bottom: 0.3rem;
-}
-.section-2{
-    border: 1px solid black;
-    padding :5px 99px 213px 0px;
-    margin-bottom: 0.3rem;
-}
-.section-3{
-    border: 1px solid black;
-   
-    margin-bottom: 0.3rem;
-} */

@@ -48,7 +48,7 @@ const Header = () => {
                                 <NavDropdown.Item href="#"> Examination applications</NavDropdown.Item>
                             </LinkContainer>
                             <LinkContainer to='/results/loginPage'>
-                                <NavDropdown.Item href="#">Results</NavDropdown.Item>
+                                <NavDropdown.Item href="/results/loginPage">Results</NavDropdown.Item>
                             </LinkContainer>
                         </NavDropdown>
 
@@ -88,4 +88,4 @@ const Header = () => {
         
     )
 }
-export default Header
+export default Header;
