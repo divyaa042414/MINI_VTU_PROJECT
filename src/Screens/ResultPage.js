@@ -56,7 +56,7 @@ const ResultPage = () =>{
                 </Col>
             </Row>
             <Row>
-                 <TableData/>
+                 <TableData studentId = {studentDetails.registerId} />
             </Row>
 
            

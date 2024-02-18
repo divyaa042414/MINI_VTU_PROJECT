@@ -17,10 +17,10 @@ const submitHandler = (e) => {
    if(registerInput === ''){
     setError("Please Enter Register Id")
    }else {
-    axios.get('http://localhost:3002/studentInfo')
+    axios.get('http://localhost:3001/studentInfo')
     .then((response) => {
          console.log("res, response.data")
-       response.data.map((data,index) => {
+       response.data.map((data) => {
         if(data.registerId === registerInput){
             navigate(`/resultpage/${registerInput}`)
         }else{
